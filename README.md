@@ -1,12 +1,28 @@
-# thyme-desktop-frontend
+# Thyme Desktop v0.0.1
 
-This template should help get you started developing with Vue 3 in Vite.
+Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours. It is built using Vue3 and uses the Thyme Backend to process and retrieve data.
 
-## Recommended IDE Setup
+### Dependencies
+Below are all the dependencies provided in the `package.json` file.
+#### Core
+- `vue ^3.2.45`
+- `vue-router ^4.1.6`
+#### Development
+- `@types/node ^18.11.12`
+- `@vitejs/plugin-vue ^4.0.0`
+- `@vue/tsconfig ^0.1.3`
+- `npm-run-all ^4.1.5`
+- `typescript ~4.7.4`
+- `vite 4.0.0`
+- `vue-tsc ^1.0.12`
+
+## Vue-generated Project Info
+
+### Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Type Support for `.vue` Imports in TS
+### Type Support for `.vue` Imports in TS
 
 TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
 
@@ -17,23 +33,23 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
     2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
-## Customize configuration
+### Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+#### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+#### Type-Check, Compile and Minify for Production
 
 ```sh
 npm run build
