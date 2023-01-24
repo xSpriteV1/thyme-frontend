@@ -1,3 +1,5 @@
+![thyme (500 × 300 px) (500 × 200 px) (500 × 160 px)](https://user-images.githubusercontent.com/69500964/214200488-442aa553-657a-42a2-98ae-2bc03babe489.svg)
+
 # Thyme Desktop v0.0.1
 
 Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours. It is built using Vue3 and uses the Thyme Backend to process and retrieve data.
