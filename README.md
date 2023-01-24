@@ -1,4 +1,5 @@
-![thyme (500 × 300 px) (500 × 200 px) (500 × 160 px)](https://user-images.githubusercontent.com/69500964/214200488-442aa553-657a-42a2-98ae-2bc03babe489.svg)
+![thyme (500 × 300 px) (500 × 200 px) (500 × 160 px) (1)](https://user-images.githubusercontent.com/69500964/214202590-7d8f8cf8-b65c-49a5-be65-c44ca168ba4d.svg)
+
 
 # Thyme Desktop v0.0.1
 
