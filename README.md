@@ -1,10 +1,6 @@
 ![thyme-logo](https://user-images.githubusercontent.com/69500964/214454999-886901d8-1d1c-4d3f-9919-5affc1a3e6b7.svg)
 
-![GPL3](https://user-images.githubusercontent.com/69500964/214683237-598f6a73-0216-47d1-b70a-d6b042dc266c.svg)
-
-
-
-
+![GPL3](https://user-images.githubusercontent.com/69500964/214684048-ce7e764c-5e6c-4613-ae9f-04f2f4225a06.svg)
 ------------
 ### About Thyme
 Thyme is a time-tracking web application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours or employee productivity.
