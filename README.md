@@ -3,7 +3,7 @@
 
 
 
-# Thyme Desktop v0.0.1
+# Thyme Frontend v0.0.1
 
 Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours. It is built using Vue3 and uses the Thyme Backend to process and retrieve data.
 
