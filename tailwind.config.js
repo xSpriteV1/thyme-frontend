@@ -9,7 +9,7 @@ module.exports = {
         "brand-light": "#E7DED9",
       },
       backgroundImage: {
-        'primary': "url('/public/background.svg",
+        'primary': "url('/background.svg')",
       },
     },
     fontFamily: {
