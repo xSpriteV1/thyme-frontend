@@ -2,7 +2,7 @@
 
 ------------
 ### About Thyme
-Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours.
+Thyme is a time-tracking web application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours or employee productivity.
 
 It is built using Vue3 & TailwindCSS and uses the Thyme Backend to process and retrieve data.
 ### Current Goals
