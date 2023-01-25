@@ -1,4 +1,5 @@
-![thyme (500 × 300 px) (500 × 200 px) (500 × 160 px) (2)](https://user-images.githubusercontent.com/69500964/214202971-d060a5e7-6cf5-42c1-bedf-81436c5a7046.svg)
+![thyme-logo](https://user-images.githubusercontent.com/69500964/214454999-886901d8-1d1c-4d3f-9919-5affc1a3e6b7.svg)
+
 
 
 
