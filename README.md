@@ -5,10 +5,11 @@
 
 # Thyme Frontend v0.0.1
 
-Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours. It is built using Vue3 and uses the Thyme Backend to process and retrieve data.
+Thyme is a time-tracking application similar in nature to Clockify, however Thyme is geared more for achieving personal goals and ambitions rather than simply monitoring billed hours.
+
+It is built using Vue3 & TailwindCSS and uses the Thyme Backend to process and retrieve data.
 
 ### Dependencies
-Below are all the dependencies provided in the `package.json` file.
 - `vue ^3.2.45`
 - `vue-router ^4.1.6`
 - `@headlessui/vue ^1.7.7`
