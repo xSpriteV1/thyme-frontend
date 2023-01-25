@@ -1,5 +1,6 @@
 ![thyme-logo](https://user-images.githubusercontent.com/69500964/214454999-886901d8-1d1c-4d3f-9919-5affc1a3e6b7.svg)
-![GPL3](https://user-images.githubusercontent.com/69500964/214681251-258950e5-b74a-4e17-ab42-8571c2896898.svg)
+
+![GPL3](https://user-images.githubusercontent.com/69500964/214682358-87525f74-fbac-4ea9-9f53-70a2a575bcac.svg)
 
 
 ------------
